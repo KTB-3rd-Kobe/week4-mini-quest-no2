@@ -1,1 +1,2 @@
-personal statement
+자기소개
+- 안녕하세요. 백엔드 개발자 이윤서입니다. 클라우드 기술에 관심이 생겨서 kakao tech bootcamp에서 공부하고 있습니다. 
