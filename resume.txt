@@ -1,0 +1,21 @@
+기본사항
+- 학력: 가천대학교 소프트웨어전공
+- 이름: 이윤서
+- 나이: 26세(2000년생)
+
+자격증
+- 정보처리기사 (Dec 2024)
+- SQL Developer (SQLD) (Apr 2025)
+- TOEIC Speaking – Advanced Low(160) (Aug 2025)
+
+대외활동
+- kakao tech bootcamp, Cloud Native Course 3rd (Sep 2025 ~ )
+- Gachon University SW Academy 4th (Mar 2024 – Aug 2024)
+- Universial Makeus Challenge GCU Server Part(Spring Boot) 5th (Sep 2023 - Feb 2024)
+
+사용기술
+- Java
+- Spring, Spring Boot
+- MySQL, PostgreSQL
+- Git
+
